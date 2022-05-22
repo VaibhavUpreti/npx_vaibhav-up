@@ -2,13 +2,13 @@
 "use strict";
 
 const inquirer = require("inquirer");
-const write = require("write");
+const chalk = require("chalk");
 
 const info = require("./info.json");
 const {Box} = require("./box.js");
 
 // add response color
-const response = write.white;
+const response = chalk.white;
 
 const resumeOptions = {
   type: "list",

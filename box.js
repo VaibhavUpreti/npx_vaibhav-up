@@ -1,15 +1,15 @@
-const write = require("write");
+const chalk = require("chalk");
 const boxen = require("boxen");
 const boxData = {
-  name: write.bold("      👋 Hey, I am Vaibhav Upreti\n  Programmer | Developer | Learner"),
-  work: `${write.white("Member at")} ${write.bold("GDSC MAIT")}`,
-  github: write.gray("https://github.com/") + write.blue("VaibhavUpreti"),
-  linkedin: write.gray("https://linkedin.com/in/") + write.red("vaibhav-upreti-739b0421a"),
-  npx: write.red("npx") + " " + write.white("vaibhav-up"),
-  printWork: write.white.bold("       Work:"),
-  printLinkedIn: write.white.bold("   LinkedIn:"),
-  printGithub: write.white.bold("     GitHub:"),
-  printCommd: write.white.bold("       Commd:"),
+  name: chalk.bold("      👋 Hey, I am Vaibhav Upreti\n  Programmer | Developer | Learner"),
+  work: `${chalk.white("Member at")} ${chalk.bold("GDSC MAIT")}`,
+  github: chalk.gray("https://github.com/") + chalk.blue("VaibhavUpreti"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.red("vaibhav-upreti-739b0421a"),
+  npx: chalk.red("npx") + " " + chalk.white("vaibhav-up"),
+  printWork: chalk.white.bold("       Work:"),
+  printLinkedIn: chalk.white.bold("   LinkedIn:"),
+  printGithub: chalk.white.bold("     GitHub:"),
+  printCommd: chalk.white.bold("       Commd:"),
 };
 
 exports.Box = boxen(
