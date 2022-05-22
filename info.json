@@ -1,0 +1,48 @@
+{
+  "👨‍🎓 Education": [
+    "Student at Maharaja Agrasen Institute Of Technology, Delhi - CGPA: (waiting for 1st sem papers....)",
+    "Senior Secondary School from Amity International School, Mayur Vihar - Percentage: 90.2%",
+    "Secondary School from Ryan International School, Noida- Percentage: 93.2%"
+  ],
+  "🔨 Skills": [
+    "Languages- C, C++, Javascript, HTML/CSS, SQL, Typescript, Bash",
+    "Framework-  Express.js, React.js, Node.js, ",
+    "Databases- MySQL, MongoDB,",
+    "Tools- Git, UNIX, GCP SDK, Markdown, Docker, Kubernetes, CI/CD-(jenkins,concourse CI, ) , Terraform "
+  ],
+  "💻 Projects": [
+    "🔵 Vaibhav Blogs- my personal blog made with NextJS",
+    "Tech Stack: NextJS, GraphQL, Nodejs",
+    "• Personal blog with posts and categories with a great UI.",
+    "• It is fully responsive and works great on mobile and computer both.",
+    " ",
+    "🔵 Chat App- A Simple chatapplication",
+    "Tech Stack: Reactjs, Node.js, TailwindCSS",
+    "• Developed a full-stack, responsive, chat application where users can create their avatars and join chatting.",
+    " ",
+    "🔵 Personal Notion Blog",
+    "Tech Stack: Typescript, Notion API, Node.js, React.js",
+    "• A blog website that publishes notion templates on the webpage.",
+    "• I save all my first yr Engineering notes on this forum.",
+    " "
+    
+  ],
+  "📍 Experience": [
+    "Member- GDSC MAIT"
+  
+  ],
+  "🏅 Achievements": [
+    "Completed Google CRF'22 Quiwklabs event - milestone 1",
+    "Contributer - GSSOC'22"
+    
+  ],
+  "🎯 Position of Responsibility": [
+    "Contributer - GSSOC'22 ",
+    "Member - GDSC MAIT"
+  ],
+  "📞 Contact": [
+    "Email- coder.vaibhavu@gmail.com",
+    "LinkedIn- https://www.linkedin.com/in/vaibhav-upreti-739b0421a/",
+    "Github- https://github.com/VaibhavUpreti"
+  ]
+}

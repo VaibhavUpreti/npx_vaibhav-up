@@ -1,0 +1,32 @@
+{
+  "name": "vaibhav-up",
+  "version": "1.2.0",
+  "description": "A description of in form of a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Upreti",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  },
+  "bin": {
+    "vaibhav-up": "index.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VaibhavUpreti/npx_vaibhav-up.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/VaibhavUpreti/npx_vaibhav-up/issues"
+  },
+  "homepage": "https://github.com/VaibhavUpreti/npx_vaibhav-up#readme"
+}
