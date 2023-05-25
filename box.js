@@ -2,7 +2,7 @@ const chalk = require("chalk");
 const boxen = require("boxen");
 const boxData = {
   name: chalk.bold("      👋 Hey, I am Vaibhav Upreti\n  Programmer | Developer | Learner"),
-  work: `${chalk.white("Member at")} ${chalk.bold("GDSC MAIT")}`,
+  work: `${chalk.white("Google Summer of Code 23")} ${chalk.bold("@CircuitVerse.org")}`,
   github: chalk.gray("https://github.com/") + chalk.blue("VaibhavUpreti"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.red("vaibhav-upreti"),
   npx: chalk.red("npx") + " " + chalk.white("vaibhav-up"),
