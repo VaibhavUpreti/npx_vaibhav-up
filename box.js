@@ -4,7 +4,7 @@ const boxData = {
   name: chalk.bold("      👋 Hey, I am Vaibhav Upreti\n  Programmer | Developer | Learner"),
   work: `${chalk.white("Member at")} ${chalk.bold("GDSC MAIT")}`,
   github: chalk.gray("https://github.com/") + chalk.blue("VaibhavUpreti"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.red("vaibhav-upreti-739b0421a"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.red("vaibhav-upreti"),
   npx: chalk.red("npx") + " " + chalk.white("vaibhav-up"),
   printWork: chalk.white.bold("       Work:"),
   printLinkedIn: chalk.white.bold("   LinkedIn:"),

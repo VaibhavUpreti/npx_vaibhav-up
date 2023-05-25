@@ -1,7 +1,7 @@
 {
   "name": "vaibhav-up",
   "version": "1.2.2",
-  "description": "A description of in form of a npm package",
+  "description": "npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

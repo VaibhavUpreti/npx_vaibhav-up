@@ -2,10 +2,8 @@
 "use strict";
 const inquirer = require("inquirer");
 const chalk = require("chalk");
-
 const info = require("./info.json");
 const {Box} = require("./box.js");
-
 // add response color
 const response = chalk.white;
 
@@ -39,14 +37,12 @@ function handleResume() {
       {
         console.log(response(new inquirer.Separator()));
         options.forEach(info => {
-          console.log(response("🔺 " + info));
+          console.log(response("📍" + info));
         });
         console.log(response(new inquirer.Separator()));
       }
     }
-
     //Handling Exit
-
     inquirer.prompt({
       type: "list",
       name: "exitBack",
